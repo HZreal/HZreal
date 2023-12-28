@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <!--   <img alt="Static Badge" src="https://img.shields.io/badge/node-g?style=flat-square&logo=nodedotjs"> -->
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat-square&logo=typescript&logoColor=white"/>
+  <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/gin-%23F5F4E1FF?logo=gin">
   <img alt="Static Badge" src="https://img.shields.io/badge/Django-%23A0B4EDFF?logo=Django">
   <img src="https://img.shields.io/badge/-Nest.js-3C873A?style=flat-square&logo=Node.js&logoColor=white"/>
