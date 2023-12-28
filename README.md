@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 
 
 - 我是 Elastic Code
-- 一枚全栈攻城狮。主攻服务端及系统设计。知识沉淀中...
+- 一枚全栈攻城狮。主战服务端技术栈、系统架构、DevOps
+- 爱折腾有趣的项目、工具
+- 目前处于技能成长、知识沉淀中...
 - email: hzreal0823@outlook.com
