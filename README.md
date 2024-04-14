@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Gin-%23F5F4E1FF?logo=gin">
   <img alt="Static Badge" src="https://img.shields.io/badge/Django-%23A0B4EDFF?logo=Django">
-  <img src="https://img.shields.io/badge/-Midyway.js-3C873A?logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Midway.js-3C873A?logo=Node.js&logoColor=white"/>
   
 <!--   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white"/> -->
 </p>
