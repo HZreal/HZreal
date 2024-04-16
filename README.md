@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 一枚乐享求知的全栈攻城狮。主战服务端技术栈、系统架构、DevOps
 - 爱折腾有趣的项目、工具
 - 目前处于技能成长、知识沉淀中...
-- GitHub Organization: https://github.com/code-elastic
 - 邮箱: hzreal0823@outlook.com
+- GitHub Organization: https://github.com/code-elastic
 - 博客:
   - https://hzreal.github.io
   - https://hzreal.github.io/hugo-site
