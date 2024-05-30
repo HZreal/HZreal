@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Go-%23D1F2E8FF?logo=go">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23F4DAF4FF?logo=Python">
 <!--   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?logo=javascript&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?logo=javascript&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?logo=typescript&logoColor=white"/>
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Gin-%23F5F4E1FF?logo=gin">
