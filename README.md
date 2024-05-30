@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 邮箱: hzreal0823@outlook.com
 - 
 - GitHub Organization: https://github.com/code-elastic
-- CSDN: https://blog.csdn.net/qq_38269333?spm=1000.2115.3001.5343
+- CSDN: https://blog.csdn.net/qq_38269333?type=blog
 - 博客:
   - https://hzreal.github.io
   - https://hzreal.github.io/hugo-site
