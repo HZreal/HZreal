@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 - 目前处于技能成长、知识沉淀中...
 - 邮箱: hzreal0823@outlook.com
 - 
+- CSDN 博客: https://blog.csdn.net/qq_38269333?type=blog
+- 
 - GitHub Organization: https://github.com/code-elastic
-- CSDN: https://blog.csdn.net/qq_38269333?type=blog
 - GitHub Pages:
   - https://hzreal.github.io
   - https://hzreal.github.io/hugo-site
