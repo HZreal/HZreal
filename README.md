@@ -31,14 +31,25 @@ Here are some ideas to get you started:
 
 
 - 我是 Elastic Code
-- 一枚乐享求知的全栈攻城狮。主战服务端技术栈、系统架构、DevOps
-- 爱折腾有趣的项目、工具
-- 目前处于技能成长、知识沉淀中...
+- 一枚乐享求知的全栈攻城狮。主攻服务端技术栈、系统架构设计、DevOps。爱折腾有趣的项目、工具，目前处于技能成长、知识沉淀中...
 - 邮箱: hzreal0823@outlook.com
 - 
+- 个人技术空间网站：www.elastic-code.com （即将上线）
 - CSDN 博客: https://blog.csdn.net/qq_38269333?type=blog
 - 
 - GitHub Organization: https://github.com/code-elastic
 - GitHub Pages:
   - https://hzreal.github.io
   - https://hzreal.github.io/hugo-site
+- 
+- 技术栈
+  - 通用：MySQL、PostgreSQL、Redis、RabbitMQ、Docker、Nginx、OSS（minio）、ELK、gRPC、Spring Cloud Gateway、Etcd、FastDFS、Opentelemetry、Prometheus
+  - 工具：Jenkins、wrk、Swagger
+- 框架工具
+  - Go ：Gin、Gorm、Samberlo、Wire、Viper、Zap、Vault
+  - Nodejs ：Midway、Nest、Typeorm、Mongoose、Lodash、PM2
+  - Python ：Django、DRF、Flask、SQLAlchemy、Celery、uWSGI、Gunicorn、Supervisor
+  - Java ：Springboot 略了解一丢丢...
+- 开发环境
+  - OS：macOS m2、linux (Ubuntu20.04/CentOS7)、Windows 10
+  - 软件工具：Jetbrains Family、Vscode、Sublime、Notion、ChatGPT Desktop、ApiFox、Typora、飞书、语雀、Vmware Fusion、wireshark ...
