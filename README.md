@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <p align='left'>
   <img alt="Static Badge" src="https://img.shields.io/badge/Go-%23D1F2E8FF?logo=go">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?logo=typescript&logoColor=white"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23F4DAF4FF?logo=Python">
 <!--   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?logo=javascript&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?logo=typescript&logoColor=white"/>
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Gin-%23F5F4E1FF?logo=gin">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Django-%23A0B4EDFF?logo=Django">
   <img src="https://img.shields.io/badge/-Midway.js-3C873A?logo=Node.js&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Django-%23A0B4EDFF?logo=Django">
   
 <!--   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white"/> -->
 </p>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 一枚乐享求知的全栈攻城狮。主攻服务端技术栈、系统架构设计、DevOps。爱折腾有趣的项目、工具，目前处于技能成长、知识体系沉淀中...
 - 邮箱: hzreal0823@outlook.com
 - 
-- 个人技术空间网站：www.elastic-code.com （即将上线）
+- 个人技术空间网站：www.elastic-code.com （维护中）
 - CSDN 博客: https://blog.csdn.net/qq_38269333?type=blog
 - 
 - GitHub Organization: https://github.com/code-elastic
