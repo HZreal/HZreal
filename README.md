@@ -43,11 +43,11 @@ Here are some ideas to get you started:
   - https://hzreal.github.io/hugo-site
 - 
 - 技术栈
-  - 通用：MySQL、PostgreSQL、Redis、RabbitMQ、Docker、Nginx、OSS（minio）、ELK、gRPC、Spring Cloud Gateway、Etcd、FastDFS、Opentelemetry、Prometheus+Grafana
+  - 通用：MySQL、PostgreSQL、MongoDB、Redis、RabbitMQ、Docker、Nginx、OSS（minio）、ELK、gRPC、Spring Cloud Gateway、Etcd、FastDFS、Opentelemetry、Prometheus+Grafana
   - 工具：Jenkins、wrk、Swagger
 - 框架工具
-  - Go ：Gin、Gorm、Samberlo、Wire、Viper、Zap、Vault
-  - Nodejs ：Midway、Nest、Typeorm、Mongoose、Lodash、PM2
+  - Go ：Gin、Gorm、Samberlo、Wire、Viper、Zap、Vault、kratos
+  - Nodejs ：Midway(express、koa、egg)、Nest、Typeorm、Mongoose、Lodash、PM2
   - Python ：Django、DRF、Flask、SQLAlchemy、Celery、uWSGI、Gunicorn、Supervisor
   - Java ：Springboot、Mybatis、Starter 略懂一丢丢...
 - 开发环境
